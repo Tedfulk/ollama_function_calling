@@ -1,7 +1,8 @@
-import json
-import ollama
 import asyncio
+import json
 from typing import Dict
+
+import ollama
 
 
 def get_flight_times(departure: str, arrival: str) -> str:

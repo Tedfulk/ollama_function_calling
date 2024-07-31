@@ -6,6 +6,7 @@ This Demo demonstrates how to use a function calling model to fetch flight times
 |--------------------------|---------------------------|------------------------|
 | llama3.1                 | Yes                       | 8B, 70B, 405B          |
 | mistral-nemo             | Yes                       | 12B                    |
+| mistral-large            | Yes                       | 123B                   |
 | firefunction-v2          | Yes                       | 70B                    |
 | llama3-groq-tool-use     | Yes                       | 8B, 70B                |
 | command-r-plus           | Yes                       | 104B                   |

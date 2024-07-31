@@ -1,6 +1,8 @@
-import pytest
 import json
 from unittest.mock import AsyncMock, patch
+
+import pytest
+
 from ollama_function_calling.main import get_flight_times, run
 
 
